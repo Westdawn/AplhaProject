@@ -1,0 +1,7 @@
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\bin\Debug\XMLMessageGenerator.exe
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\bin\Debug\XMLMessageGenerator.pdb
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\obj\Debug\XMLMessageGenerator.Form1.resources
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\obj\Debug\XMLMessageGenerator.Properties.Resources.resources
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\obj\Debug\XMLMessageGenerator.csproj.GenerateResource.Cache
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\obj\Debug\XMLMessageGenerator.exe
+d:\users\h.bao\documents\visual studio 2013\Projects\XMLMessageGenerator\obj\Debug\XMLMessageGenerator.pdb
